@@ -1,5 +1,5 @@
 Technology Stack :
-HTML-5 ,CSS Jquery, Ajax , PHP ,JAVASCRIPT, Google API ,Google maps , Google voice
+HTML-5 ,CSS Jquery, Ajax , PHP ,JAVASCRIPT, Google API ,Google maps , Google voice,Google Map APi , Google Speech recognition APi
 command.
 
 Description:
